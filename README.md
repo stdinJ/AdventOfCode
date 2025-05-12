@@ -9,11 +9,6 @@ Este projeto foi criado com o objetivo de **aprimorar minha lógica de programa�
 - Cada pasta representa um **dia de desafio** (ex: `Day01`, `Day02`, etc.)
 - Dentro de cada pasta, você encontrará os arquivos `.java` com as soluções e, quando necessário, os arquivos de entrada (`input.txt`).
 
-## 💻 Tecnologias Utilizadas
-
-- Linguagem: **Java**
-- Editor/IDE: **[informe aqui, ex: VS Code, IntelliJ IDEA, Eclipse...]**
-- JDK: **Java 17** (ou a versão que estiver usando)
 
 ## 🚀 Como Executar
 
